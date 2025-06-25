@@ -1,0 +1,3 @@
+﻿  L6.cpp
+C:\Курсы C ++\Sourse2\Sourse2\L6.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sourse2.vcxproj -> C:\Курсы C ++\Sourse2\x64\Debug\Sourse2.exe

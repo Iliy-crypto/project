@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041A\u0443\u0440\u0441\u044B C \u002B\u002B\\Sourse2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75695E11-6C7B-4226-BC5F-1E9215960C56}|Sourse2\\Sourse2.vcxproj|C:\\\u041A\u0443\u0440\u0441\u044B C \u002B\u002B\\Sourse2\\Sourse2\\L6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75695E11-6C7B-4226-BC5F-1E9215960C56}|Sourse2\\Sourse2.vcxproj|solutionrelative:Sourse2\\L6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "L6.cpp",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441\u044B C \u002B\u002B\\Sourse2\\Sourse2\\L6.cpp",
+              "RelativeDocumentMoniker": "Sourse2\\L6.cpp",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441\u044B C \u002B\u002B\\Sourse2\\Sourse2\\L6.cpp*",
+              "RelativeToolTip": "Sourse2\\L6.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T11:03:05.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
